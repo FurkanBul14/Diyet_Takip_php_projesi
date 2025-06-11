@@ -36,27 +36,27 @@ Kullanıcılar sisteme kayıt olup giriş yaptıktan sonra günlük öğünlerin
 ## 📸 Ekran Görüntüleri
 
 ### 👤– Kayıt Ol Ekranı
-![Kayıt Ol](diyet-takip/ssler/ss1.png)
+![](diyet-takip/ssler/ss1.png)
 `register.php` sayfası. Kullanıcı adı, e-posta ve şifre girerek hesap oluşturma bölümü.
 
 ### 🔐- Giriş Ekranı
-![](ssler/ss2-.png)
+![](diyet-takip/ssler/ss2-.png)
 `login.php` sayfası. Kullanıcı e-posta ve şifre ile sisteme giriş yapar.
 
 ### 🏠– Dashboard (Hoş Geldin Sayfası)
-![](ssler/ss3-.png)
+![](diyet-takip/ssler/ss3-.png)
 `dashboard.php`. Kullanıcıya özel hoş geldin mesajı ve yönlendirme butonları.
 
 ### 📝– Diyet Kayıt Listesi
-![](ssler/ss4-.png)
+![](diyet-takip/ssler/ss4-.png)
 `diyet_listele.php`. Kayıtlı öğünleri tablo olarak görür. Sil ve düzenle butonları yer alır.
 
 ### ➕– Yeni Kayıt Ekleme Sayfası
-![](ssler/ss5-.png)
+![](diyet-takip/ssler/ss5-.png)
 `diyet_ekle.php`. Form üzerinden yeni öğün bilgisi eklenebilir.
 
 ### ✏️– Kayıt Güncelleme Ekranı
-![](ssler/ss6-.png)
+![](diyet-takip/ssler/ss6-.png)
 `diyet_duzenle.php`. Önceden eklenmiş kayıtlar güncellenebilir.
 
 ---
