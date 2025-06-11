@@ -77,7 +77,8 @@ Yapay zeka desteğiyle proje geliştirilmişse, tüm konuşmalar `AI.md` dosyas�
 ## 🌐 Canlı Demo
 
 Proje, verilen hosting alanında aktif olarak çalışmaktadır:  
-🔗 [](http://95.130.171.20/~st23360859084/diyet-takip/)
+🔗 <a href="http://95.130.171.20/~st23360859084/diyet-takip/"></a>
+
 
 
 ---
