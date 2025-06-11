@@ -36,7 +36,7 @@ Kullanıcılar sisteme kayıt olup giriş yaptıktan sonra günlük öğünlerin
 ## 📸 Ekran Görüntüleri
 
 ### 👤– Kayıt Ol Ekranı
-![](ssler/ss1-.png)
+![Kayıt Ol](ssler/ss1.png)
 `register.php` sayfası. Kullanıcı adı, e-posta ve şifre girerek hesap oluşturma bölümü.
 
 ### 🔐- Giriş Ekranı
