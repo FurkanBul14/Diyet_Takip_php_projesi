@@ -63,7 +63,7 @@ Kullanıcılar sisteme kayıt olup giriş yaptıktan sonra günlük öğünlerin
 
 ## 🎬 Tanıtım Videosu
 
-📽️ [Tanıtım videosunu izlemek için tıklayın](https://drive.google.com/...)  
+📽️ [https://www.youtube.com/watch?v=lmWf041yxzc](https://www.youtube.com/watch?v=lmWf041yxzc)  
 > Videoda: Kayıt ol, giriş yap, kayıt ekle, düzenle, sil, çıkış işlemleri sırayla gösterilmiştir.
 
 ---
